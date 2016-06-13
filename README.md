@@ -1,1 +1,4 @@
 # MyWheelOfWork
+
+在源码注释中都可以看懂每个组件的用途及使用方法，其中ZYActionSheetView是需要加载到window上才可以，并且在使用的时候需要调用它的公有方法
+ZYTableView是对tableview的一个封装，目的是为了减轻VC的代码量
